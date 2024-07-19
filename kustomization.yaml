@@ -5,3 +5,4 @@ resources:
 - service.yaml
 images:
 - name: jihunregistry.azurecr.io/jihoon15/edu1
+  newtag: "master"
